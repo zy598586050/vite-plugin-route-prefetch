@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-route-prefetch",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "路由懒加载prefetch插件",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
